@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyLocalization</string>
+    <string name="app_tittle"> Registrazione</string>
+    <string name="form_text">Compila questo modulo per registrarti come utente</string>
+    <string name="txtName"> Nome e cognome</string>
+    <string name="txtEmail"> Indirizzo email</string>
+    <string name="txtNohp"> Numero di telefono</string>
+    <string name="txtPassword"> Parola d\'ordine</string>
+    <string name="btnSubmit">SOTTOSCRIVI</string>
+    <string name="checkbox"> Ho letto e accetto i termini</string>
+    <string name="btnLanguage"> SET LANGUAGE</string>
+</resources>
